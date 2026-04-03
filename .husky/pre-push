@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+pnpm run knip
+pnpm run build
